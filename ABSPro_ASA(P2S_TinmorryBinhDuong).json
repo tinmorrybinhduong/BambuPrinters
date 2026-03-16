@@ -18,11 +18,11 @@
         "nil"
     ],
     "filament_settings_id": [
-        "P2S-ABS pro,ASA(TinmorryBinhDuong）"
+        "P2S-ABS pro,ASA(P2S-Bambu-TINMORRY-BinhDuong）"
     ],
     "from": "User",
     "inherits": "Generic ABS @BBL P2S",
-    "name": "P2S-ABS pro,ASA(TinmorryBinhDuong）",
+    "name": "P2S-ABS pro,ASA(P2S-Bambu-TINMORRY-BinhDuong）",
     "nozzle_temperature_initial_layer": [
         "270",
         "nil"
