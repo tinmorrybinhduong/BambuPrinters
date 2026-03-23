@@ -1,0 +1,36 @@
+{
+    "fan_max_speed": [
+        "60"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
+    "filament_settings_id": [
+        "PETG-Matte(A1mini-Bambu-TINMORRY-BinhDuong)"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG @BBL A1M",
+    "name": "PETG-Matte(A1mini-Bambu-TINMORRY-BinhDuong)",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "version": "2.0.0.91"
+}
