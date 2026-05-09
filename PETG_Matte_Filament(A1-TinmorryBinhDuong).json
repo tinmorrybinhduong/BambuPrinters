@@ -11,6 +11,9 @@
     "filament_flow_ratio": [
         "0.98"
     ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
     "filament_settings_id": [
         "PETG-Matte(A1-TinmorryBinhDuong)"
     ],
@@ -28,12 +31,6 @@
     ],
     "nozzle_temperature_range_low": [
         "230"
-    ],
-    "textured_plate_temp": [
-        "70"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "70"
-    ],
+    ],    
     "version": "2.0.0.91"
 }
