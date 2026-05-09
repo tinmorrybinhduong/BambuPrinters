@@ -20,11 +20,11 @@
     "inherits": "Generic PETG @BBL P2S",
     "name": "P2S-MattePETG(TinmorryBinhDuong）",
     "nozzle_temperature": [
-        "225",
+        "230",
         "nil"
     ],
     "nozzle_temperature_initial_layer": [
-        "225",
+        "230",
         "nil"
     ],
     "nozzle_temperature_range_high": [
