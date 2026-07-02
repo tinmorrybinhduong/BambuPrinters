@@ -5,6 +5,7 @@
     ],
     "from": "User",
     "inherits": "0.20mm Standard @BBL P2S",
+    "initial_layer_print_height": "0.16",
     "name": "P2S_PETG_Matte(TinmorryBinhDuong）",
     "print_extruder_id": [
         "1",
