@@ -15,11 +15,14 @@
         "200"
     ],
     "close_additional_fan_first_x_layers": [
-        "3"
+        "5"
     ],
     "close_fan_the_first_x_layers": [
-        "3"
-    ],    
+        "5"
+    ],
+    "compatible_printers": [
+        "Bambu Lab X2D 0.4 nozzle"
+    ],
     "compatible_printers_condition": "",
     "compatible_prints": [],
     "compatible_prints_condition": "",
@@ -78,10 +81,10 @@
         "30"
     ],
     "fan_max_speed": [
-        "90"
+        "40"
     ],
     "fan_min_speed": [
-        "40"
+        "20"
     ],
     "filament_adaptive_volumetric_speed": [
         "0",
@@ -175,7 +178,7 @@
         "Bowden High Flow"
     ],
     "filament_flow_ratio": [
-        "0.98",
+        "0.9",
         "0.95",
         "0.95",
         "0.95"
@@ -187,6 +190,9 @@
         "0"
     ],
     "filament_flush_temp_fast": [
+        "0",
+        "0",
+        "0",
         "0"
     ],
     "filament_flush_volumetric_speed": [
@@ -195,7 +201,7 @@
         "0",
         "0"
     ],
-    "filament_id": "Pb16214f",
+    "filament_id": "P0806e7b",
     "filament_is_support": [
         "0"
     ],
@@ -420,7 +426,7 @@
         "nil"
     ],
     "first_x_layer_fan_speed": [
-        "40"
+        "0"
     ],
     "first_x_layer_part_fan_speed": [
         "0"
@@ -540,10 +546,10 @@
         "70"
     ],
     "textured_plate_temp": [
-        "65"
+        "60"
     ],
     "textured_plate_temp_initial_layer": [
-        "65"
+        "60"
     ],
     "version": "2.7.0.8",
     "volumetric_speed_coefficients": [
