@@ -27,8 +27,5 @@
     ],
     "print_settings_id": "PETG_Matte_Process(X2D-TinmorryBinhDuong)",
     "sparse_infill_pattern": "gyroid",
-    "version": "2.7.0.8",
-    "wall_generator": "arachne",
-    "wall_loops": "3",
-    "wall_sequence": "inner-outer-inner wall"
+    "version": "2.7.0.8"
 }
