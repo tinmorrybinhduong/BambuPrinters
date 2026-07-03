@@ -15,7 +15,5 @@
     "print_settings_id": "A1_PETG_Matte（TinmorryBinhDuong）",
     "sparse_infill_density": "10%",
     "sparse_infill_pattern": "gyroid",
-    "version": "2.0.0.91",
-    "wall_loops": "3",
-    "wall_sequence": "inner-outer-inner wall"
+    "version": "2.0.0.91"
 }
